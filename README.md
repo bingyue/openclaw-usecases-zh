@@ -15,10 +15,7 @@
 ![Last Update](https://img.shields.io/github/last-commit/hesamsheikh/awesome-openclaw-usecases?label=Last%20Update&style=flat-square)
 </div>
 
-# Awesome OpenClaw 使用案例
-
-> **⚠️ 翻译版本声明**  
-> 本文档为社区翻译的中文版本，可能存在滞后。如发现内容过时，请查阅[原始英文 README](README.md) 获取最新信息。
+# OpenClaw 真实场景使用案例
 
 ---
 
